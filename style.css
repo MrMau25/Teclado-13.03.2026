@@ -1,0 +1,15 @@
+button{
+    font-family: Arial;
+}
+
+.botones{
+    height: 50px;
+    width: 50px;
+    padding: 15px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.botones:hover{
+    background-color: aqua;
+}
